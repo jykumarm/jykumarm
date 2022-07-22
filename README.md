@@ -4,7 +4,7 @@
 
 - 👨‍💻  tap to know more about me: [https://jykumarm.github.io/](https://jykumarm.github.io/)
 
-- 💬 Ask me about **java, docker, python, java script**
+- 💬 Ask me about **java, docker, python, java script, Spring boot**
 
 - 📫 How to reach me **jykumarm@gmail.com**
 
